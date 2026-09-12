@@ -214,6 +214,6 @@ It demonstrates the ability to:
 
 ## 👩‍💻 Author
 
-**Sruthy Sree**
+**Sruthy S S**
 
 🎯 Aspiring Data Analyst
